@@ -1,6 +1,6 @@
 {
   "name": "is-gitlab-down",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if GitLab is down",
   "license": "MIT",
   "repository": "rascarlito/is-gitlab-down",
