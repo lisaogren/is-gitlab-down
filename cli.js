@@ -5,7 +5,7 @@ const got = require('got');
 
 meow(`
 	Usage
-	  $ is-github-down
+	  $ is-gitlab-down
 	  🦄  It's down. Go outside!
 `);
 
