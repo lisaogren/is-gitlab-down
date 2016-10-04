@@ -2,6 +2,7 @@
 
 > Check if GitLab is down
 
+Just a fork of Sindre Sorhus' [is-github-down](https://github.com/sindresorhus/is-github-down)
 
 ## Install
 
