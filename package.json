@@ -1,0 +1,43 @@
+{
+  "name": "is-gitlab-down",
+  "version": "1.0.0",
+  "description": "Check if GitLab is down",
+  "license": "MIT",
+  "repository": "rascarlito/is-gitlab-down",
+  "author": {
+    "name": "Carl Ogren",
+    "email": "rascarlito@gmail.com",
+    "url": "carlogren.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "github",
+    "down",
+    "check",
+    "up",
+    "status"
+  ],
+  "dependencies": {
+    "got": "^6.1.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.2.2",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
